@@ -1,0 +1,16 @@
+I used data from Sean Lahaman's Website a very useful source for baseball statistics for this project.
+
+The project is to find a replacement for three of Oakland Athletics best players that left the team after the 2001 season.
+
+I selected the replacement players based on their 'On Base Percentage (OBP)' ranking from highest to lowest. Also strict constraints that the total combined salary of the three replacement players should not exceed 15 million dollars, their combined number of At Bats(AB) must be greater than that of the lost players and the mean OBP have to be greater than that of the lost players.
+
+The playerID, OBP, AB and salary of 3 possible signings was selected and shown below
+
+   playerID       OBP  AB  salary
+1 heltoto01 0.4316547 587 4950000
+2 berkmla01 0.4302326 577  305000
+3 gonzalu01 0.4285714 609 4833333
+
+It is important to note that this players are not just highest ranked in OBP but also very affordable as their salary total amount to approximately 10 million dollars. This is well below the budget of the club and saves the club a sum total of approximately 5 million dollars.
+
+THUS, It is strongly recommended that Oakland Athletics signs players with ID "heltoto01", "berkmla01" and "gonzalu01" for the club.
